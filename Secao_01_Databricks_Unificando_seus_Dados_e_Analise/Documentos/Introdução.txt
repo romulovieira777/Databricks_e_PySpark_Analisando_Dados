@@ -1,0 +1,6 @@
+Passo a passo - criação de conta Databricks Community Edition
+
+Você não precisará criar uma conta no Databricks na AWS, GLOOGLE ou MICROSOFT, utilize o passo a passo e crie a conta no Databricks Community Edition - Free
+
+
+Passo a Passo - Criação de conta Databricks Community Edition
